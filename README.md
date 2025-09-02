@@ -35,7 +35,7 @@ It simulates real-world ATM functionality such as **PIN verification, OTP login,
 ---
 
 ## 📂 Project Structure
-
+```
 ATM_Simulation-JAVA-/
 │── src/
 │ └── project1_ATM/
@@ -46,5 +46,5 @@ ATM_Simulation-JAVA-/
 │── .classpath # Eclipse classpath file
 │── .project # Eclipse project configuration
 │── README.md # Project documentation
-
+```
 ---
